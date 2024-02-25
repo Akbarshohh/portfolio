@@ -1,1 +1,1 @@
-Codimni chopsaylar Nima qilishni Uzim bilaman
+Codimni chopsaylar Nima qilishni Uzim bilaman😈😠🩸🔪
