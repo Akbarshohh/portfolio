@@ -60,8 +60,8 @@ function Projects() {
               isBlog={false}
               title="Dashboard App"
               description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate omnis impedit quos, maxime suscipit maiores distinctio optio, magni facilis similique ullam architecto autem. Neque facere quae dolorum maiores eligendi sapiente ex consequatur excepturi nostrum quisquam nisi unde voluptatibus provident nobis."
-              ghLink="https://github.com/Akbarshohh/dashboard"
-              demoLink="https://fakedashboard.netlify.app/"
+              ghLink="https://github.com/Akbarshohh/dashboard2"
+              demoLink="https://mydashboard2.netlify.app/ "
             />
           </Col>
 
@@ -71,8 +71,8 @@ function Projects() {
               isBlog={false}
               title="Dashboard 2 App"
               description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate omnis impedit quos, maxime suscipit maiores distinctio optio, magni facilis similique ullam architecto autem. Neque facere quae dolorum maiores eligendi sapiente ex consequatur excepturi nostrum quisquam nisi unde voluptatibus provident nobis."
-              ghLink="https://github.com/Akbarshohh/dashboard2"
-              demoLink="https://mydashboard2.netlify.app/"
+              ghLink="https://github.com/Akbarshohh/dashboard"
+              demoLink="https://fakedashboard.netlify.app/"
             />
           </Col>
 

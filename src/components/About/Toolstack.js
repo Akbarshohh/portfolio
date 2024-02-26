@@ -4,7 +4,7 @@ import {
   SiVisualstudiocode,
   SiGooglechrome,
   SiTelegram,
-  SiVite,
+  SiFigma,
   SiWindows,
 } from "react-icons/si";
 
@@ -24,7 +24,7 @@ function Toolstack() {
         <SiTelegram />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVite />
+        <SiFigma />
       </Col>
     </Row>
   );
